@@ -1,1 +1,1 @@
-# cmake_modules
+This area contains cmake modules I have stolen/adapted/written. Due credit is given at the top of the files, either by copyright notice, or url. Just a place for me to store them... don't expect great things.
