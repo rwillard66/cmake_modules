@@ -1,3 +1,5 @@
+# https://github.com/ibizaman/dbobject/blob/master/cmake/Modules/FindMYSQLCONNECTORCPP.cmake
+#
 # - Try to find Mysql-Connector-C++
 # Once done, this will define
 #
